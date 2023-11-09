@@ -1,0 +1,6 @@
+D:\MiniMarket C# .NET\CL_Capa_Datos\bin\Debug\CL_Capa_Datos.dll
+D:\MiniMarket C# .NET\CL_Capa_Datos\bin\Debug\CL_Capa_Datos.pdb
+D:\MiniMarket C# .NET\CL_Capa_Datos\obj\Debug\CL_Capa_Datos.csproj.AssemblyReference.cache
+D:\MiniMarket C# .NET\CL_Capa_Datos\obj\Debug\CL_Capa_Datos.csproj.CoreCompileInputs.cache
+D:\MiniMarket C# .NET\CL_Capa_Datos\obj\Debug\CL_Capa_Datos.dll
+D:\MiniMarket C# .NET\CL_Capa_Datos\obj\Debug\CL_Capa_Datos.pdb
